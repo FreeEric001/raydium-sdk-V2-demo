@@ -4,7 +4,7 @@ import {
   DEV_LOCK_CPMM_PROGRAM,
   DEV_LOCK_CPMM_AUTH,
   CpmmKeys,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 import { initSdk, txVersion } from '../config'
 import { isValidCpmm } from './utils'
 import { PublicKey } from '@solana/web3.js'

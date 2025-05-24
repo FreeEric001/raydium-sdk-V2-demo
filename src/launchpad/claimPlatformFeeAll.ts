@@ -1,4 +1,4 @@
-import { API_URLS, LAUNCHPAD_PROGRAM, LaunchpadConfig, LaunchpadConfigInfo, LaunchpadPool, printSimulate, TxVersion } from '@/raydium-io/raydium-sdk-v2'
+import { API_URLS, LAUNCHPAD_PROGRAM, LaunchpadConfig, LaunchpadConfigInfo, LaunchpadPool, printSimulate, TxVersion } from '@raydium-io/raydium-sdk-v2'
 import { NATIVE_MINT } from '@solana/spl-token'
 import { PublicKey } from '@solana/web3.js'
 import Decimal from 'decimal.js'

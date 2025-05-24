@@ -1,4 +1,4 @@
-import { LaunchpadPoolInfo, Curve } from '@/raydium-io/raydium-sdk-v2'
+import { LaunchpadPoolInfo, Curve } from '@raydium-io/raydium-sdk-v2'
 import { MintInfo } from './type'
 
 // poolInfo demo code: poolInfo.ts

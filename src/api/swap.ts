@@ -2,7 +2,7 @@ import { Transaction, VersionedTransaction, sendAndConfirmTransaction } from '@s
 import { NATIVE_MINT } from '@solana/spl-token'
 import axios from 'axios'
 import { connection, owner, fetchTokenAccountData } from '../config'
-import { API_URLS } from '@/raydium-io/raydium-sdk-v2'
+import { API_URLS } from '@raydium-io/raydium-sdk-v2'
 
 interface SwapCompute {
   id: string

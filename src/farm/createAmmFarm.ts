@@ -1,4 +1,4 @@
-import { ApiV3PoolInfoStandardItem, RAYMint, FarmRewardInfo } from '@/raydium-io/raydium-sdk-v2'
+import { ApiV3PoolInfoStandardItem, RAYMint, FarmRewardInfo } from '@raydium-io/raydium-sdk-v2'
 import { PublicKey } from '@solana/web3.js'
 import { initSdk, txVersion } from '../config'
 

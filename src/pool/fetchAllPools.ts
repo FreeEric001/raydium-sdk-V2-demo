@@ -6,7 +6,7 @@ import {
   CpmmPoolInfoLayout,
   struct,
   publicKey,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 
 const connection = new Connection('rpc url')
 

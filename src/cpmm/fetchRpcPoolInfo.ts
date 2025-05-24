@@ -1,5 +1,5 @@
 import { initSdk } from '../config'
-import { ApiV3PoolInfoStandardItemCpmm, CpmmKeys, CpmmRpcData, CurveCalculator } from '@/raydium-io/raydium-sdk-v2'
+import { ApiV3PoolInfoStandardItemCpmm, CpmmKeys, CpmmRpcData, CurveCalculator } from '@raydium-io/raydium-sdk-v2'
 
 export const fetchRpcPoolInfo = async () => {
   const raydium = await initSdk()

@@ -43,7 +43,7 @@ const { execute, transaction, builder, extInfo } = await raydium.clmm.openPositi
 #### Fetch pool list by mints (mainnet only)
 
 ```
-import { PoolFetchType } from '@/raydium-io/raydium-sdk-v2'
+import { PoolFetchType } from '@raydium-io/raydium-sdk-v2'
 
 const list = await raydium.api.fetchPoolByMints({
   mint1: '4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R', // required

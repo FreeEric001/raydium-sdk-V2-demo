@@ -6,7 +6,7 @@ import {
   printSimulate,
   getPdaLaunchpadPoolId,
   PlatformConfig,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 import { initSdk } from '../config'
 import BN from 'bn.js'
 import { PublicKey } from '@solana/web3.js'

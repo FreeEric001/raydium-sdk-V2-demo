@@ -7,7 +7,7 @@ import {
   getPdaLockClPositionIdV2,
   CLMM_LOCK_PROGRAM_ID,
   LockClPositionLayoutV2,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 import { PublicKey } from '@solana/web3.js'
 import { initSdk, txVersion } from '../config'
 import { BN } from 'bn.js'

@@ -1,4 +1,4 @@
-import { ApiV3Token } from '@/raydium-io/raydium-sdk-v2'
+import { ApiV3Token } from '@raydium-io/raydium-sdk-v2'
 
 export interface ConfigInfo {
   name: string

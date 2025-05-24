@@ -3,7 +3,7 @@ import {
   CLMM_PROGRAM_ID,
   DEVNET_PROGRAM_ID,
   ClmmPositionLayout,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 import { initSdk, txVersion } from '../config'
 
 export const harvestAllRewards = async () => {

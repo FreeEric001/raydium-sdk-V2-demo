@@ -1,5 +1,5 @@
 import axios from 'axios'
-import { ApiV3Token } from '@/raydium-io/raydium-sdk-v2'
+import { ApiV3Token } from '@raydium-io/raydium-sdk-v2'
 import { ConfigInfo } from './type'
 import { CONFIG_LIST_URL } from './url'
 

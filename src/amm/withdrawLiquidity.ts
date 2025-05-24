@@ -1,4 +1,4 @@
-import { ApiV3PoolInfoStandardItem, AmmV4Keys, AmmV5Keys } from '@/raydium-io/raydium-sdk-v2'
+import { ApiV3PoolInfoStandardItem, AmmV4Keys, AmmV5Keys } from '@raydium-io/raydium-sdk-v2'
 import { initSdk, txVersion } from '../config'
 import BN from 'bn.js'
 import Decimal from 'decimal.js'

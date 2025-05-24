@@ -4,7 +4,7 @@ import {
   DEVNET_PROGRAM_ID,
   PositionInfoLayout,
   getPdaPersonalPositionAddress,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 import { PublicKey } from '@solana/web3.js'
 import { initSdk, txVersion } from '../config'
 

@@ -9,7 +9,7 @@ import {
   ApiV3Token,
   PositionInfoLayout,
   DEVNET_PROGRAM_ID,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 import { PublicKey } from '@solana/web3.js'
 import Decimal from 'decimal.js'
 import BN from 'bn.js'

@@ -1,4 +1,4 @@
-import { ApiV3PoolInfoConcentratedItem, ClmmKeys, RAYMint } from '@/raydium-io/raydium-sdk-v2'
+import { ApiV3PoolInfoConcentratedItem, ClmmKeys, RAYMint } from '@raydium-io/raydium-sdk-v2'
 import { initSdk, txVersion } from '../config'
 import Decimal from 'decimal.js'
 import { isValidClmm } from './utils'

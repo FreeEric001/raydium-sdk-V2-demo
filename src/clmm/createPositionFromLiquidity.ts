@@ -4,7 +4,7 @@ import {
   PoolUtils,
   ClmmKeys,
   printSimulate,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 import BN from 'bn.js'
 import { initSdk, txVersion } from '../config'
 import Decimal from 'decimal.js'

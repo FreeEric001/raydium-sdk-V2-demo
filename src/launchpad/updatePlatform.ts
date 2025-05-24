@@ -4,7 +4,7 @@ import {
   printSimulate,
   LAUNCHPAD_PROGRAM,
   PlatformConfig,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 import { initSdk } from '../config'
 import { PublicKey } from '@solana/web3.js'
 import BN from 'bn.js'

@@ -1,6 +1,6 @@
 import { PublicKey } from '@solana/web3.js'
 import { NATIVE_MINT } from '@solana/spl-token'
-import { TxVersion, DEV_LAUNCHPAD_PROGRAM, LAUNCHPAD_PROGRAM, printSimulate } from '@/raydium-io/raydium-sdk-v2'
+import { TxVersion, DEV_LAUNCHPAD_PROGRAM, LAUNCHPAD_PROGRAM, printSimulate } from '@raydium-io/raydium-sdk-v2'
 import { initSdk } from '../config'
 
 export const claimPlatformFee = async () => {

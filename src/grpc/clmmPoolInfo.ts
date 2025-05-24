@@ -1,4 +1,4 @@
-import { PoolInfoLayout, SqrtPriceMath } from '@/raydium-io/raydium-sdk-v2';
+import { PoolInfoLayout, SqrtPriceMath } from '@raydium-io/raydium-sdk-v2';
 import Client from "@triton-one/yellowstone-grpc";
 import base58 from "bs58";
 import { grpcToken, grpcUrl } from "../config";

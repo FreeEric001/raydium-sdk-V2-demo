@@ -5,7 +5,7 @@ import {
   LogLevel,
   setLoggerLevel,
   USDCMint,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 import { initSdk, txVersion } from '../config'
 import BN from 'bn.js'
 import { isValidAmm } from './utils'

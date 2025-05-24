@@ -1,4 +1,4 @@
-import { RAYMint, USDCMint, OPEN_BOOK_PROGRAM, DEVNET_PROGRAM_ID, WSOLMint } from '@/raydium-io/raydium-sdk-v2'
+import { RAYMint, USDCMint, OPEN_BOOK_PROGRAM, DEVNET_PROGRAM_ID, WSOLMint } from '@raydium-io/raydium-sdk-v2'
 import { initSdk, txVersion } from '../config'
 
 export const createMarket = async () => {

@@ -6,7 +6,7 @@ import {
   AmmV4Keys,
   AmmV5Keys,
   printSimulate,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 import { initSdk, txVersion } from '../config'
 import { isValidAmm } from './utils'
 import Decimal from 'decimal.js'

@@ -1,4 +1,4 @@
-import { BasicPoolInfo } from '@/raydium-io/raydium-sdk-v2'
+import { BasicPoolInfo } from '@raydium-io/raydium-sdk-v2'
 import { PublicKey } from '@solana/web3.js'
 import jsonfile from 'jsonfile'
 import fs from 'fs'

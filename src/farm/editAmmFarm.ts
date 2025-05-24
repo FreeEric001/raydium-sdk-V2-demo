@@ -1,4 +1,4 @@
-import { USDCMint, FarmRewardInfo } from '@/raydium-io/raydium-sdk-v2'
+import { USDCMint, FarmRewardInfo } from '@raydium-io/raydium-sdk-v2'
 import { PublicKey } from '@solana/web3.js'
 import { initSdk, txVersion } from '../config'
 

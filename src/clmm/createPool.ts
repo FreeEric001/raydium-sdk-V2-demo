@@ -1,4 +1,4 @@
-import { CLMM_PROGRAM_ID, DEVNET_PROGRAM_ID } from '@/raydium-io/raydium-sdk-v2'
+import { CLMM_PROGRAM_ID, DEVNET_PROGRAM_ID } from '@raydium-io/raydium-sdk-v2'
 import { PublicKey } from '@solana/web3.js'
 import { initSdk, txVersion } from '../config'
 import Decimal from 'decimal.js'

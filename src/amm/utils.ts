@@ -1,4 +1,4 @@
-import { AMM_V4, AMM_STABLE, DEVNET_PROGRAM_ID } from '@/raydium-io/raydium-sdk-v2'
+import { AMM_V4, AMM_STABLE, DEVNET_PROGRAM_ID } from '@raydium-io/raydium-sdk-v2'
 
 const VALID_PROGRAM_ID = new Set([
   AMM_V4.toBase58(),

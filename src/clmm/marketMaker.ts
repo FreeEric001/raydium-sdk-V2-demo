@@ -1,4 +1,4 @@
-import { CLMM_PROGRAM_ID, DEVNET_PROGRAM_ID, TickUtils, Raydium } from '@/raydium-io/raydium-sdk-v2'
+import { CLMM_PROGRAM_ID, DEVNET_PROGRAM_ID, TickUtils, Raydium } from '@raydium-io/raydium-sdk-v2'
 import { initSdk } from '../config'
 import cron from 'node-cron'
 import Decimal from 'decimal.js'

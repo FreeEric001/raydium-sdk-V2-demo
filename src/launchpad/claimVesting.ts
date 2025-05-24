@@ -1,4 +1,4 @@
-import { TxVersion, DEV_LAUNCHPAD_PROGRAM, printSimulate, LAUNCHPAD_PROGRAM } from '@/raydium-io/raydium-sdk-v2'
+import { TxVersion, DEV_LAUNCHPAD_PROGRAM, printSimulate, LAUNCHPAD_PROGRAM } from '@raydium-io/raydium-sdk-v2'
 import { initSdk } from '../config'
 import { PublicKey } from '@solana/web3.js'
 

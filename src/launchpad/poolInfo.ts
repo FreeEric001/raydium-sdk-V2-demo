@@ -6,7 +6,7 @@ import {
   DEV_LAUNCHPAD_PROGRAM,
   LAUNCHPAD_PROGRAM,
   Curve,
-} from '@/raydium-io/raydium-sdk-v2'
+} from '@raydium-io/raydium-sdk-v2'
 import { initSdk } from '../config'
 import BN from 'bn.js'
 
